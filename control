@@ -1,0 +1,9 @@
+Package: com.qn.hidelookup
+Name: HideLookUp
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Hide the "Look Up" and "New Quick Note" buttons from the text selection menu in all apps.
+Maintainer: Qn <qnblackcat@gmail.com>
+Author: Qn <qnblackcat@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
